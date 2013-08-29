@@ -1,0 +1,15 @@
+{
+  "name": "editable-component",
+  "version": "0.0.1",
+  "description": "Turn element into contenteditable",
+  "keywords": ["contenteditable", "editable", "content", "input", "ui"],
+  "dependencies": {
+    "classes-component": "*",
+    "emitter-component": "*"
+  },
+  "component": {
+    "scripts": {
+      "editable": "index.js"
+    }
+  }
+}
